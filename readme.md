@@ -50,4 +50,4 @@ I would like to thank **[Sujeito Programador](https://github.com/devfraga)**, a 
 
 ### 🌐 Try Pluton
 
-**[Visit the website](https://pluton-db.vercel.app)**
+**[Visit the website](https://plutondb.vercel.app)**
