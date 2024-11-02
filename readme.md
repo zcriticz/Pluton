@@ -40,7 +40,7 @@ sass --watch assets/sass/main.scss assets/css/main.css --no-source-map
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial** (CC BY-NC)
 
-Learn more at: **[license.md](https://)**
+Learn more at: **[license.md](https://github.com/zcriticz/Pluton/blob/main/license.md)**
 
 ## Finalization
 
