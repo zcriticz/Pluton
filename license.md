@@ -14,4 +14,4 @@ Sob as seguintes condições:
 
 **Nota:** Este código é fornecido "como está", sem garantias ou responsabilidades. Para mais detalhes sobre os termos desta licença, consulte: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-© Cristian Santos | Todos os direitos reservados
+© 2024 Pluton | Todos os direitos reservados
