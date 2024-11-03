@@ -1,4 +1,4 @@
-![Mockup](https://i.imgur.com/kEGHdns.png)
+![Mockup](https://i.imgur.com/O4ZKmmQ.png)
 
 # Pluton
 
