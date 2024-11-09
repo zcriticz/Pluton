@@ -265,7 +265,6 @@ header {
   justify-content: center;
   align-items: center;
   gap: 16px;
-  margin-top: 10px;
   padding: 0 44px 34px 44px;
 }
 
@@ -297,7 +296,6 @@ header {
 .services-content_info {
   width: 100%;
   padding: 14px;
-  margin-top: 15px;
   position: relative;
   z-index: 1;
 }
